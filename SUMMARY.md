@@ -4,8 +4,10 @@
 
 ## Auth API
 
-* [Login Mobile](auth-api/login.md)
-* [Register Mobile](auth-api/register.md)
+* [Login Kasir](auth-api/login-kasir.md)
+* [Register Kasir](auth-api/register-kasir.md)
+* [Login Mobile](auth-api/login-mobile.md)
+* [Register Mobile](auth-api/register-mobile.md)
 
 ## Order API
 
